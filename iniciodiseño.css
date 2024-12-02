@@ -1,0 +1,40 @@
+body {
+background-image: url('https://i.pinimg.com/736x/aa/1a/d7/aa1ad72ba6e8965f70a97cb9c51221c1.jpg');
+background-size: cover; 
+background-position: center;
+}
+
+
+h1{
+text-align:center;
+color:purple;
+font-size:60px;
+font-family: fantasy;
+}
+
+p{
+font-size:30px;
+font-family:sparkle;
+color:black;
+}
+
+p1{
+font-size:50px;
+font-family:sparkle;
+color:black;
+}
+
+p2{
+font-size:45px;
+font-family:sparkle;
+color:black;
+float: center;
+}
+
+p3{
+float: right;
+}
+
+p4{
+float: left;
+}
